@@ -1,0 +1,7 @@
+{
+  "resume_directory": "./data/resumes",
+  "allowed_extensions": [".txt", ".md", ".json"],
+  "max_file_size_mb": 5,
+  "watch_poll_seconds": 2,
+  "server_name": "Recruitment Filesystem MCP"
+}

@@ -1,0 +1,5 @@
+Name: Alice Singh
+Role: Frontend Engineer
+Experience: 4 years
+Skills: React, JavaScript, TypeScript, HTML, CSS, Git, REST API
+Nice to have: Node.js

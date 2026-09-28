@@ -1,0 +1,5 @@
+Name: Rahul Mehta
+Role: Full Stack Developer
+Experience: 5 years
+Skills: React, JavaScript, Node.js, SQL, MongoDB, Git, REST API, Docker
+Nice to have: AWS

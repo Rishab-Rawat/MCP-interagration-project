@@ -1,0 +1,5 @@
+Name: Vikram Joshi
+Role: Software Engineer
+Experience: 2 years
+Skills: JavaScript, React, Git, HTML, CSS
+Nice to have: TypeScript

@@ -1,0 +1,5 @@
+Name: Neha Sharma
+Role: Backend Engineer
+Experience: 3 years
+Skills: Python, FastAPI, SQL, PostgreSQL, Docker, AWS, Git
+Nice to have: React
