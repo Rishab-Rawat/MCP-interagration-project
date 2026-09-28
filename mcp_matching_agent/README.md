@@ -1,6 +1,6 @@
 # Recruitment Matching Agent — MCP + LangGraph
 
-A submission-ready implementation of a recruitment matching agent that replaces direct filesystem access with the **Model Context Protocol (MCP)**. LangGraph orchestrates the recruitment workflow while the MCP server owns filesystem operations and resume resources.
+A submission-ready of implementation of a recruitment matching agent that replaces direct filesystem access with the **Model Context Protocol (MCP)**. LangGraph orchestrates the recruitment workflow while the MCP server owns filesystem operations and resume resources.
 
 ## Learning objectives covered
 
